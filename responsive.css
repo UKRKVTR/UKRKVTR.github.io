@@ -1,0 +1,786 @@
+@media (max-width: 1440px) {
+    .text-head{
+        padding-bottom: 100px;
+      }
+      .row {
+        gap: 70px;
+      }
+      .bloc>img{
+        width: 400px;
+        height: 400px;
+      }
+      .bloc{
+        gap: 30px;
+      }
+      .row {
+        gap: 50px;
+      }
+      .row li img {
+        width: 50px;
+        height: 50px;
+      }
+      .row li {
+        font-size: 14px;
+        width: 100px;
+      }
+      .text_bloc{
+        padding-left: 40px;
+        margin-top: 20px;
+      }
+      .imgone img{
+        max-width: 400px;
+        max-height: 400px;
+      }
+      .back{
+        padding-left: 200px;
+      }
+      .marc{
+        margin-left: 200px;
+        margin-top: -100px;
+      }
+      .button {
+        top: 600px;
+        right: 150px;
+      }
+      .list{
+        margin: 0 500px 0 250px;
+        padding-bottom: 50px;
+      }
+      .contact{
+        margin: 20px 200px 0 100px;
+      }
+      .form-container {
+        gap: 100px;
+      }
+      .eggplantItem img{
+        margin: 0 10px;
+        max-width: 280px;
+        max-height: 280px;
+      }
+}
+@media (max-width: 1024px){
+    .logo{
+        height: 50px;
+      }
+      .search span img {
+        width: 10px;
+        height: 10px;
+      }
+      .search input[type="text"] {
+        font-size: 10px;
+      }
+      .navbar>ul{ 
+        font-size: 14px;
+        justify-content: right;
+      }
+      h1{
+        font-size: 38px;
+        padding-bottom: 20px;
+      }
+      .text-head{
+        padding-top: 100px;
+        padding-bottom: 100px;
+      }
+      .but_read{
+        width: 130px;
+        height: 35px;
+        font-size: 12px;
+      }
+      .row {
+        gap: 50px;
+      }
+      .row li {
+        margin: 10px 5px;
+        flex: 1 0 20px;
+      }
+      .row li img {
+        max-width: 40px;
+        max-height: 40px;
+      }
+      .row a {
+        font-size: 12px;
+        width: 100px;
+      }
+      h2{
+        font-size: 32px;
+        font-family: 'Roboto Slab', serif;
+        margin-bottom: 62px;
+        position: relative;
+      }
+      h2::after{
+        font-size: 12px;
+      }
+      p{
+        font-size: 18px;
+      }
+      .bloc>img{
+        width: 300px;
+        height: 300px;
+      }
+      h3{
+        font-size: 32px;
+      }
+      h3::after {
+        font-size: 12px;
+      }
+      .image_foot {
+        gap: 60px;
+      }
+      .catton h4, .sunflower h4,.tomato h4{
+        font-size: 12px;
+        }
+    .catton p, .tomato p, .sunflower p{
+        margin: 0 auto;
+        text-align:center; 
+        width: 230px;
+        }
+    .image_foot img {
+        margin: 0 auto;
+        width: 150px;
+    }
+    .catton .text_foot{
+    padding-top: 50px;
+    }
+    hr{
+        margin: 10px auto 0 auto;
+    }
+    .navbar_foot ul{
+        display: flex;    
+        gap: 30px; 
+    }
+    .navbar_foot ul li,  .navbar_foot a{
+        font-size: 10px;
+    }      
+    .copy p{
+        font-size: 8px;
+    }
+    .row_a li img{
+        width: 20px;
+      }
+      .tomato_main h2{
+        font-size: 32px;
+        margin-left: 60px;
+      }
+      .tomato_main p{
+        font-size: 14px;
+        width: 800px;
+        margin-left: 60px;
+      }
+      .info{
+        margin: 0 auto;
+        width: 950px;
+        height: 450px;
+        background-color: #FFFFFF;
+      }
+      .info h4{
+        font-size: 14px;
+        padding-bottom: 20px;
+      }
+      .info p{
+        width: 250px;
+        margin-left: 0;
+        font-size: 14px;
+      }
+      .card_selector{
+        margin-bottom: 100px;
+        width: 1000px;
+      }
+      .card{
+        width: 200px;
+      }
+      .card-body{
+        height: 200px;
+      }
+      .card p, .card h5{
+        font-size: 12px;
+      }
+      .card p{
+        margin: 0 auto;
+        width: 180px;
+      }
+      .imgone img{
+        max-width: 250px;
+        max-height: 250px;
+      }
+      .back h2{
+        font-size: 32px;
+        width: 300px;
+      }
+      .back{
+        padding-left: 250px;
+      }
+      .marc{
+        margin-left: 230px;
+        margin-top: -20px;
+        width: 300px;
+      }
+      .marc img{
+        padding-right: 0;
+        width: 80px;
+        height: 80px;
+      }
+      .marc p{
+        font-size: 16px;
+      }
+      .button {
+        top: 450px;
+        right: 120px;
+      }
+      .button p{
+        font-size: 12px;
+      }
+      .button img {
+        margin-right: 10px;
+        width: 20px;
+        height: 24px;
+      }
+      .list{
+        margin: 0 300px 0 250px;
+        padding-bottom: 50px;
+      }
+      .about h5, .about li{
+        font-size: 14px;
+      }
+      .about{
+        margin-top: 30px;
+      }
+      .about ul li{
+        font-size: 12px;
+      }
+      .form-container {
+        gap: 100px;
+      }
+      .inputus, select{
+        font-size: 12px;
+        width: 200px;
+        height: 25px;
+      }
+      .contact{
+        margin: 20px 150px;
+      }
+      #drop, #spec{
+        width:400px;
+      }
+      #inter{
+        width: 400px;
+        height: 250px;
+      }
+      #cap{
+        width: 150px;
+      }
+      .button2{
+        width: 150px;
+        height: 40px;
+        font-size: 12px;
+      }
+      form label{
+        font-size: 12px;
+      }
+}
+@media (max-width: 768px){
+    .logo{
+        margin-top: 20px;
+        height: 50px;
+      }
+      .header_mob{
+        margin-top: 0;
+        display:block;
+        z-index: 3;
+      }
+      .header-wrapped{
+        display: none;
+      }
+      .search span img {
+        width: 10px;
+        height: 10px;
+      }
+      .search input[type="text"] {
+        font-size: 10px;
+      }
+      .navbar>ul{ 
+        font-size: 10px;
+        gap: 8px;  
+      }
+      h1{
+        font-size: 24px;
+        padding-bottom: 20px;
+      }
+      .text-head{
+        padding-top: 150px;
+        padding-bottom: 200px;
+      }
+      .but_read{
+        width: 100px;
+        height: 30px;
+        font-size: 10px;
+      }
+      .selector{
+        margin-top: -100px;
+      }
+      .row {
+        gap: 10px;
+      }
+      .row li {
+        margin: 10px 5px;
+        flex: 1 0 20px;
+      }
+      .row li img {
+        max-width: 30px;
+        max-height: 30px;
+      }
+      .row a {
+        font-size: 12px;
+        width: 100px;
+      }
+      h2{
+        font-size: 32px;
+        font-family: 'Roboto Slab', serif;
+        margin-bottom: 50px;
+        position: relative;
+      }
+      h2::after{
+        font-size: 12px;
+      }
+      p{
+        font-size: 24px;
+      }
+      .content{
+        margin: 0 100px;
+      }
+      .bloc{
+        display: flex;
+        flex-direction: column;
+      }
+      .bloc>img{
+        width: 400px;
+        height: 400px;
+      }
+      .bloc2{
+        display: flex;
+        flex-direction: column-reverse;
+      }
+      h3{
+        font-size: 24px;
+      }
+      h3::after {
+        font-size: 12px;
+      }
+      .image_foot {
+        gap: 40px;
+      }
+      .catton h4, .sunflower h4,.tomato h4{
+        font-size: 12px;
+        }
+    .catton p, .tomato p, .sunflower p{
+        margin: 0 auto;
+        text-align:center; 
+        width: 200px;
+        font-size: 10px;
+        }
+    .image_foot img {
+        margin: 0 auto;
+        width: 150px;
+    }
+    .catton .text_foot{
+    padding-top: 50px;
+    }
+    hr{
+        margin: 10px auto 0 auto;
+    }
+    .navbar_foot ul{
+        display: flex;    
+        gap: 10px; 
+        margin-top: 10px;
+    }
+    .navbar_foot ul li,  .navbar_foot a{
+        font-size: 8px;
+    }      
+    .copy p{
+        font-size: 6px;
+    }
+    .row_a li img{
+        width: 15px;
+      }
+      .tomato_body{
+        padding-top: 100px;
+      }
+      .tomato_main h2{
+        font-size: 32px;
+        margin-left: 60px;
+      }
+      .tomato_main p{
+        font-size: 14px;
+        width: 700px;
+        margin-left: 30px;
+      }
+      .tomato_main{
+        width: 700px;
+      }
+      .info{
+        margin: 0 20px;
+        width: 700px;
+        height: 380px;
+        background-color: #FFFFFF;
+      }
+      .info h4{
+        font-size: 14px;
+        width: 150px;
+        padding-bottom: 20px;
+      }
+      .info p{
+        width: 200px;
+        margin-left: 0;
+        font-size: 12px;
+      }
+      .card_selector{
+        margin-bottom: 6300px;
+        margin-left: 10px;
+        width: 700px;
+      }
+      .card{
+        width: 700px;
+      }
+      .card-body{
+        height: 200px;
+      }
+      .card p, .card h5{
+        font-size: 18px;
+      }
+      .card p{
+        margin: 0 auto;
+        width: 180px;
+      }
+      .imgone img{
+        max-width: 300px;
+        max-height: 300px;
+      }
+      .back h2{
+        font-size: 32px;
+        width: 300px;
+      }
+      .grid{
+        padding-top: 150px;
+      }
+      .back{
+        padding-left: 100px;
+      }
+      .marc{
+        margin-left: 80px;
+        margin-top: -50px;
+        width: 300px;
+      }
+      .marc img{
+        padding-right: 0;
+        width: 80px;
+        height: 80px;
+      }
+      .marc p{
+        font-size: 16px;
+      }
+      .button {
+        top: 480px;
+        right: 30px;
+      }
+      .button p{
+        font-size: 12px;
+      }
+      .button img {
+        margin-right: 10px;
+        width: 20px;
+        height: 24px;
+      }
+      .left_line{
+       width: 700px;
+      }
+      .list{
+        margin: 0 100px 0 100px;
+        padding-bottom: 50px;
+      }
+      .about h5, .about li{
+        font-size: 14px;
+      }
+      .about{
+        margin-top: 30px;
+      }
+      .about ul li{
+        font-size: 12px;
+      }
+      .form-container {
+        gap: 100px;
+      }
+      .inputus, select{
+        width: 200px;
+        height: 25px;
+        font-size: 10px;
+      }
+      .contact{
+        margin: 30px 30px;
+      }
+      #drop, #spec{
+        width:400px;
+      }
+      #drop{
+        font-size: 10px;
+      }
+      #inter{
+        width: 400px;
+        height: 250px;
+      }
+      #cap{
+        width: 150px;
+      }
+      .contactus{
+        padding-top: 100px;
+      }
+      .button2{
+        width: 140px;
+        height: 40px;
+        padding: 5px 10px;
+        font-size: 10px;
+      }
+      form label{
+        font-size: 10px;
+      }
+}
+@media (max-width: 375px){
+    h1,h2{
+        font-size: 14px;
+    }
+    p{
+        font-size: 12px;
+    }
+    .header_mob{
+        margin-top: -100px;
+        max-width: 375px;
+    }
+    .text_bloc{
+        width: 375px;
+        margin-left: 0;
+    }
+    .text-head{
+        padding-bottom: 140px;
+        margin-top: 100px;
+        padding-top: 50px;
+    }
+    .text_bloc p{
+        width: 300px;
+        margin-left: 0;
+    }
+    .content{
+        margin: 0;
+    }
+    .row{
+        gap: 30px;
+    }
+    .row a{
+        font-size: 8px;
+    }
+    .scrollbar{
+        overflow-x: auto;
+    }
+    .card::-webkit-scrollbar {
+        display: none;
+    }
+    .bloc img{
+        width: 250px;
+        height: 250px;
+        margin: 0 auto;
+    }
+    .image_foot{
+        display: flex;
+        flex-direction: column;
+    }
+    .links{
+        display: flex;
+        flex-direction: column;
+    }
+    .navbar_foot ul{
+        padding-left: 0;
+        margin-bottom: 0;
+    }
+    .navbar_foot ul li{
+        font-size: 6px;
+    }
+    .tomato_body{
+        margin-top: 100px;
+    }
+    .carousel{
+        margin-top: -100px;
+    }
+    .tomato_main{
+        width: 375px;
+    }
+    .tomato_main h2{
+        font-size: 14px;
+        margin-bottom: 30px;
+        margin-left: 10px;
+    }
+    .tomato_main p{
+        font-size: 10px;
+        width: 360px;
+        margin-left: 10px;
+    }
+    .info_box{
+        display: flex;
+        flex-direction: column;
+        padding-left: 15px;
+    }
+    .info{
+        height: 700px;
+        width: 350px;
+        margin-left: 10px;
+    }
+    .box{
+        width: 300px;
+    }
+    .box p{
+        width: 300px;
+        margin-left: 0;
+    }
+    .left_line{
+        width: 300px;
+    }
+    .card-body p{
+        width: 200px;
+    }
+    .card_selector{
+        width: 360px;
+        margin-left: 15px;
+        padding-right: 0;
+        margin-bottom: 3300px;
+    }
+    .card{
+        width: 300px;
+    }
+    .tomato_one{
+        margin-top: 100px;
+    }
+    .grid{
+        padding-left: 35px;
+        grid-template-columns: auto;
+        padding-top: 0;
+        padding-bottom: 100px;
+
+    }
+    .button{
+        right: 190px;
+        top: 615px;
+    }
+    .back{
+        padding-bottom: 50px;
+        padding-left: 0px;
+    }
+    .back h2{
+        font-size: 24px;
+    }
+    .marc{
+        margin-left: 15px;
+    }
+    .list{
+        display: flex;
+        flex-direction: column;
+        margin-left: 50px;
+    }
+    .contactus{
+        margin-top: 100px;
+    }
+    .form-container{
+        grid-template-columns: 300px;
+        gap: 20px;
+    }
+    #drop, #spec{
+        width:200px;
+      }
+      #inter{
+        width: 200px;
+        height: 150px;
+      }
+      .field2{
+        margin-top: 5px;
+      }
+      .last{
+        grid-template-columns: auto;
+      }
+}
+@media (max-width: 320px){
+    .text_bloc{
+        width: 200px;
+        padding-left: 5px;
+    }
+    .text-head{
+        padding-bottom: 120px;
+    }
+    .bloc{
+        padding-top: 20px;
+    }
+    .row li img {
+        max-width: 15px;
+        max-height: 15px;
+      }
+      .row li{
+        font-size: 8px;
+      }
+      .tomato_main h2{
+        font-size: 12px;
+        margin-bottom: 30px;
+        margin-left: 10px;
+    }
+    .tomato_main p{
+        font-size: 10px;
+        width: 280px;
+    }
+    .info{
+        width: 300px;
+        height: 700px;
+      }
+      .info_box{
+        padding-left: 10px;
+    }
+    .card{
+        width: 250px;
+    }
+    .card_selector{
+        width: 280px;
+        margin-right: 0;
+        margin-bottom: 2950px;
+    }
+    .card-body p{
+        width: 200px;
+    }
+    .field{
+        margin-right: 20px;
+    }
+    .input{
+        width: 280px;
+    }
+    .grid{
+        padding-left: 20px;
+        grid-template-columns: auto;
+        padding-top: 0;
+        padding-bottom: 100px;
+
+    }
+    .button{
+        right: 140px;
+        top: 570px;
+    }
+    .back{
+        padding-bottom: 50px;
+        padding-left: 0px;
+    }
+    .back h2{
+        font-size: 24px;
+    }
+    .marc{
+        margin-left: 15px;
+    }
+    .imgone img{
+        width: 250px;
+        height: 250px;
+    }
+    .list{
+        display: flex;
+        flex-direction: column;
+        margin-left: 50px;
+    }
+}
