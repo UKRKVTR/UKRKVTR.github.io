@@ -467,11 +467,12 @@
   }
   .back{
     padding-left: 250px;
+    padding-bottom: 200px;
   }
   .back h2{
     width: 526px;
     font-weight: 700;
-    font-size: 54px;
+    font-size: 32px;
   }
   .imgone img{
     width: 500px;
@@ -506,6 +507,9 @@
     display: block;
     font-size: 18px;
   }
+  .od{
+    margin: 0 1000px;
+  }
   .about{
     margin-top: 30px;
   }
@@ -515,6 +519,16 @@
     font-size: 20px;
     border-bottom: 1px solid #57984C;
     width:180px;
+  }
+  table{
+    margin: 0 auto;
+  }
+  table td{
+    border: 1px solid black;
+    padding: 20px 20px;
+  }
+  table th{
+    text-align: center;
   }
   .list{
     display: grid;
